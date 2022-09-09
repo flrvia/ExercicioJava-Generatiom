@@ -22,7 +22,7 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 
    
 
-   ![image-20220908224450071](C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908224450071.png)
+   ![image](https://user-images.githubusercontent.com/65964287/189261711-3cc58518-9b56-470d-b992-4d6e4c8dea4e.png)
 
    
 
@@ -30,7 +30,7 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 
    
 
-   ![image-20220908224643331](C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908224643331.png)
+  ![image](https://user-images.githubusercontent.com/65964287/189261743-a112218f-db7e-4aec-8021-11d7ef1dcacf.png)
 
 
 
@@ -42,7 +42,7 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 
    
 
-   ![image-20220908225247816](C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908225247816.png)
+   ![image](https://user-images.githubusercontent.com/65964287/189261768-854d768f-cc80-4442-a857-71fc8e4f4815.png)
 
 
 
@@ -62,7 +62,7 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 
    
 
-   ![image-20220908230242640](C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908230242640.png)
+   ![image](https://user-images.githubusercontent.com/65964287/189261804-31659042-488b-4a68-9661-ae1929a90d3a.png)
 
    
 
@@ -76,7 +76,7 @@ E clicamos em **Finish**
 
 
 
-![image-20220908230511150](C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908230511150.png)
+![image](https://user-images.githubusercontent.com/65964287/189261837-4f9524bd-2242-4c7d-8225-ba1f0d2decc4.png)
 
 
 
@@ -90,7 +90,7 @@ E clicamos em **Finish**
 
 
 
-#### Vamos ao código? <img src="C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908231508657.png" alt="image-20220908231508657" style="zoom:5%;" />
+#### Vamos ao código? <img src="https://icon-library.com/images/icon-code/icon-code-0.jpg" height="20" width="20"/>
 
 1. Esse é nossa primeira linha de código, para sair escrita:
 
@@ -100,9 +100,9 @@ E clicamos em **Finish**
 
    
 
-![image-20220908231926899](C:\Users\flaas\AppData\Roaming\Typora\typora-user-images\image-20220908231926899.png)
+![image](https://user-images.githubusercontent.com/65964287/189261853-ca1e8eb7-7f5f-400e-9987-f40a9195efed.png)
 
-*Usando o* ``Alt + 4`` para fazer o ♥. 
+*Usando o* ``Alt + 4`` *para fazer o* ♥. 
 
 
 
