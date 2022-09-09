@@ -21,16 +21,14 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 2. Agora iremos colocar o nome de nosso projeto e deixa no local exato que está, claro você pode colocar em qualquer local que deseja, mas o aconselhável é deixar automático.
 
    
-
-   ![image](https://user-images.githubusercontent.com/65964287/189261711-3cc58518-9b56-470d-b992-4d6e4c8dea4e.png)
+![image](https://user-images.githubusercontent.com/65964287/189261711-3cc58518-9b56-470d-b992-4d6e4c8dea4e.png)
 
    
 
 3. Nesta segunda parte o programa já seleciona automaticamente sua **JRE** (Java Runtime Environment) - Ambiente de Execução do **Java** que fornece as bibliotecas padrões do **Java** para o **JDK** compilar o seu código e para a **JVM** executar o seu programa.
 
    
-
-  ![image](https://user-images.githubusercontent.com/65964287/189261743-a112218f-db7e-4aec-8021-11d7ef1dcacf.png)
+![image](https://user-images.githubusercontent.com/65964287/189261743-a112218f-db7e-4aec-8021-11d7ef1dcacf.png)
 
 
 
@@ -42,7 +40,7 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 
    
 
-   ![image](https://user-images.githubusercontent.com/65964287/189261768-854d768f-cc80-4442-a857-71fc8e4f4815.png)
+![image](https://user-images.githubusercontent.com/65964287/189261768-854d768f-cc80-4442-a857-71fc8e4f4815.png)
 
 
 
@@ -61,8 +59,7 @@ O **Spring Boot** é um framework Java open source que tem como objetivo facilit
 1. Aqui nós iremos criar a classe dentro da pasta **src** para começar nosso código.
 
    
-
-   ![image](https://user-images.githubusercontent.com/65964287/189261804-31659042-488b-4a68-9661-ae1929a90d3a.png)
+![image](https://user-images.githubusercontent.com/65964287/189261804-31659042-488b-4a68-9661-ae1929a90d3a.png)
 
    
 
