@@ -7,7 +7,7 @@ public class Preguica extends Animais{
 	}
 	
 	public void PreguicaAnda() {
-		System.out.println("\nA "+getNome()+" vai andar bem devarzinho agora!");
+		System.out.println("\nA "+getNome()+" esta subindo na árvore bem devagarzinho...");
 	}
 	
 	public void EmitirSom() {
